@@ -1,5 +1,8 @@
 @import 'https://fonts.googleapis.com/css?family=Signika' ;
 
+.back1{
+	background-color: #FAFAFA;
+}
 body{
 	font-family: 'Signika';
 }
@@ -8,6 +11,21 @@ footer{
 	background-color: #D8D8D8;
 }
 
+a{
+	color:#BDBDBD;
+}
+
+/*css nav con slider*/
+
+
+.search{
+	float: right;
+}
+.navred{
+	background-color:#DF0101;
+	border:#DF0101;
+	color: white;
+}
 .lg16-foot{
 	color: #848484;
 }
@@ -31,3 +49,15 @@ footer{
 .pb-8{padding-bottom:8%;}
 .pb-10{padding-bottom:10%;}
 
+.ml-3{
+	margin-left: 3%;
+}
+.ml-7{
+	margin-left: 7%;
+}
+.mr-3{
+	margin-right: 3%;
+}
+.pr-2{
+	padding-right: 2%;
+}
